@@ -1,0 +1,4 @@
+- content: You are a helpful assistant.
+  role: system
+- content: hi what were we talking about last time?
+  role: user
